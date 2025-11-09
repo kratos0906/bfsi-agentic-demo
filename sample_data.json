@@ -1,0 +1,174 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Riya Sharma",
+      "age": 29,
+      "city": "Mumbai",
+      "phone": "9999990001",
+      "address": "Bandra West",
+      "credit_score": 782,
+      "pre_approved_limit": 300000,
+      "monthly_salary": 95000,
+      "current_loans": [
+        {
+          "type": "CC",
+          "emi": 3500
+        }
+      ],
+      "email": "riya@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Aman Verma",
+      "age": 34,
+      "city": "Delhi",
+      "phone": "9999990002",
+      "address": "Dwarka",
+      "credit_score": 695,
+      "pre_approved_limit": 200000,
+      "monthly_salary": 70000,
+      "current_loans": [
+        {
+          "type": "PL",
+          "emi": 8000
+        }
+      ],
+      "email": "aman@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Ishita Singh",
+      "age": 26,
+      "city": "Pune",
+      "phone": "9999990003",
+      "address": "Kothrud",
+      "credit_score": 815,
+      "pre_approved_limit": 500000,
+      "monthly_salary": 120000,
+      "current_loans": [],
+      "email": "ishita@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Rohan Gupta",
+      "age": 31,
+      "city": "Jaipur",
+      "phone": "9999990004",
+      "address": "Vaishali Nagar",
+      "credit_score": 740,
+      "pre_approved_limit": 250000,
+      "monthly_salary": 60000,
+      "current_loans": [
+        {
+          "type": "Auto",
+          "emi": 12000
+        }
+      ],
+      "email": "rohan@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Neha Patel",
+      "age": 28,
+      "city": "Ahmedabad",
+      "phone": "9999990005",
+      "address": "Satellite",
+      "credit_score": 665,
+      "pre_approved_limit": 150000,
+      "monthly_salary": 55000,
+      "current_loans": [
+        {
+          "type": "CC",
+          "emi": 2500
+        }
+      ],
+      "email": "neha@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Karan Mehta",
+      "age": 36,
+      "city": "Gurugram",
+      "phone": "9999990006",
+      "address": "DLF Phase 3",
+      "credit_score": 720,
+      "pre_approved_limit": 400000,
+      "monthly_salary": 80000,
+      "current_loans": [
+        {
+          "type": "Home",
+          "emi": 22000
+        }
+      ],
+      "email": "karan@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Priya Nair",
+      "age": 33,
+      "city": "Bengaluru",
+      "phone": "9999990007",
+      "address": "Indiranagar",
+      "credit_score": 705,
+      "pre_approved_limit": 350000,
+      "monthly_salary": 110000,
+      "current_loans": [
+        {
+          "type": "PL",
+          "emi": 6000
+        }
+      ],
+      "email": "priya@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Sahil Khan",
+      "age": 27,
+      "city": "Hyderabad",
+      "phone": "9999990008",
+      "address": "Madhapur",
+      "credit_score": 730,
+      "pre_approved_limit": 180000,
+      "monthly_salary": 65000,
+      "current_loans": [],
+      "email": "sahil@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Ananya Bose",
+      "age": 30,
+      "city": "Kolkata",
+      "phone": "9999990009",
+      "address": "Salt Lake",
+      "credit_score": 760,
+      "pre_approved_limit": 280000,
+      "monthly_salary": 90000,
+      "current_loans": [
+        {
+          "type": "CC",
+          "emi": 4500
+        }
+      ],
+      "email": "ananya@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Varun Rao",
+      "age": 35,
+      "city": "Chennai",
+      "phone": "9999990010",
+      "address": "Adyar",
+      "credit_score": 690,
+      "pre_approved_limit": 220000,
+      "monthly_salary": 75000,
+      "current_loans": [
+        {
+          "type": "Auto",
+          "emi": 10000
+        }
+      ],
+      "email": "varun@example.com"
+    }
+  ]
+}
